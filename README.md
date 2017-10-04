@@ -12,6 +12,8 @@ A simple node.js app allowing you to create public and private stories to share 
 * [Passport](http://passportjs.org/) - Node.js Authentication
 * [Google Auth](https://developers.google.com/+/web/api/rest/?hl=en_US) - Login Authentication via Google Account
 * [Moment.js](https://momentjs.com/) - Date / Time parser
+* [Heroku](https://heroku.com) - Deployment
+* [GitHub](https://github.com) - Version Management / Code Repo
 
 ## Authors
 
